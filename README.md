@@ -45,7 +45,7 @@ contract MyTokenAssessment {
    To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. 
    Make sure the "compiler" option is set to it's compatible version, and then click on the "Compile MyToken.sol" button.
 
-   After the code is compiled, deploy the contract by clicking on the "Deploy & Run Transaction" tab right under the "Solidity Compoler" tab.
+   After the code is compiled, deploy the contract by clicking on the "Deploy & Run Transaction" tab right under the "Solidity Compiler" tab.
    Select the "MyTokenAssessment" contract from the dropdown menu, and then click on the "Deploy" button.
 
    Once the contract is deployed, you can interact with it by clicking the dropdown menu of "MyTokenAssessment" right under the Deployed Contracts.
