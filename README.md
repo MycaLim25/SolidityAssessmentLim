@@ -1,6 +1,6 @@
 # Solidity ETH PROOF: Beginner Course
 
-This is a simple Solidity application to create a token. This is not the typical way to create a token, but this short program explains the fundamental syntax and capabilities of the Solidity programming language.
+This is a simple Solidity program to create a token. This is not the typical way to create a token, but this short program explains the fundamental syntax and capabilities of the Solidity programming language.
 
  ## Description
  
