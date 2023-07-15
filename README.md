@@ -61,9 +61,10 @@ After that click the call button at the balance to update the supply and the bal
 
 ## Author
 Myca M. Lim
+
 Contact info: 422003897@ntc.edu.ph
 
-##License
+## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
